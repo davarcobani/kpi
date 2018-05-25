@@ -190,7 +190,7 @@ class SearchCollectionList extends Reflux.Component {
       docTitle = t('Library');
     }
     return (
-      <DocumentTitle title={`${docTitle} | KoboToolbox`}>
+      <DocumentTitle title={`${docTitle} | MobilApp`}>
         <Dropzone
           onDrop={this.dropFiles}
           disableClick

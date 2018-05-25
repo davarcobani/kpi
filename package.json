@@ -1,7 +1,7 @@
 {
   "name": "kpi",
   "version": "0.1.1",
-  "description": "kobotoolbox api dashboard",
+  "description": "MobilApp api dashboard",
   "devDependencies": {
     "alertifyjs": "^1.9.0",
     "async": "^1.4.2",
